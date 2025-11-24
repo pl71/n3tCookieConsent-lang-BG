@@ -1,1 +1,1 @@
-Обновена версия на българския превод за Joomla плъгина n3tCookieConsent.
+Български превод на Joomla плъгина n3tCookieConsent.
