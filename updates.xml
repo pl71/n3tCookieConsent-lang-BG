@@ -12,13 +12,14 @@
 		<tags>
 			<tag>stable</tag>
 		</tags>
-		<sha256>sha256:dd1e1ddc71462b1838394572ef8dbfb758b45b7a322aae78142db68ae8282e7e</sha256>
+		<sha256>dd1e1ddc71462b1838394572ef8dbfb758b45b7a322aae78142db68ae8282e7e</sha256>
 		<client>site</client>
 		<maintainer>Plamen Penkov</maintainer>
 		<targetplatform name="joomla" version="5\.(1|2|3|4)"/>
 		<php_minimum>8.0</php_minimum>
 	</update>
 </updates>
+
 
 
 
