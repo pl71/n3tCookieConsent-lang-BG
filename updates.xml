@@ -7,18 +7,19 @@
 		<type>file</type>
 		<version>4.5.0</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/pl71/n3tCookieConsent-lang-BG/releases/download/4.5.0/bg-BG.plg_system_n3tCookieConsent-j5-v4.5.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/pl71/n3tCookieConsent-lang-BG/releases/download/4.5.1/bg-BG.plg_system_n3tCookieConsent-j5-v4.5.0.zip</downloadurl>
 		</downloads>
 		<tags>
 			<tag>stable</tag>
 		</tags>
-		<sha256>dd1e1ddc71462b1838394572ef8dbfb758b45b7a322aae78142db68ae8282e7e</sha256>
+		<sha256>51F3A1624B2C71BFFB642050332AC908401B2E48D2E608E29F87EE5D499A78B4</sha256>
 		<client>site</client>
 		<maintainer>Plamen Penkov</maintainer>
 		<targetplatform name="joomla" version="5\.(1|2|3|4)"/>
 		<php_minimum>8.0</php_minimum>
 	</update>
 </updates>
+
 
 
 
