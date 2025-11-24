@@ -5,7 +5,7 @@
 		<description>Bulgarian Language for n3tCookieConsent</description>
 		<element>bg-BG.plg_system_n3tcookieconsent</element>
 		<type>file</type>
-		<version>4.5.0</version>
+		<version>4.5.1</version>
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/pl71/n3tCookieConsent-lang-BG/releases/download/4.5.1/bg-BG.plg_system_n3tCookieConsent-j5-v4.5.0.zip</downloadurl>
 		</downloads>
@@ -19,6 +19,7 @@
 		<php_minimum>8.0</php_minimum>
 	</update>
 </updates>
+
 
 
 
