@@ -7,7 +7,7 @@
 		<type>file</type>
 		<version>4.5.0</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/pl71/n3tCookieConsent-lang-BG/raw/refs/heads/main/bg-BG.plg_system_n3tCookieConsent-j5-v4.4.2.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/pl71/n3tCookieConsent-lang-BG/releases/download/v4.5.0/bg-BG.plg_system_n3tCookieConsent-j5-v4.4.2.zip</downloadurl>
 		</downloads>
 		<tags>
 			<tag>stable</tag>
@@ -18,6 +18,7 @@
 		<php_minimum>8.0</php_minimum>
 	</update>
 </updates>
+
 
 
 
